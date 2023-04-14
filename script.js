@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function firstNonRepeatedCharacter(str) {
-  et charCount = {};
+  let charCount = {};
 
   // Loop through the string and populate the charCount object
   for (let i = 0; i < str.length; i++) {
