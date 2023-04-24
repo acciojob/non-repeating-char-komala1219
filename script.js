@@ -22,4 +22,4 @@ function firstNonRepeatedCharacter(str) {
 
 const inputStr = prompt("Enter a string");
 const result = firstNonRepeatedCharacter(inputStr);
-alert(result ? `The first non-repeated character is: ${result}` : "All characters are repeated");
+alert( ${result});
